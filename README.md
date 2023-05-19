@@ -25,12 +25,12 @@ You as Analyst need to investigate this and work backwards to solve the problem 
 - AWS Redshift Serverless
 - Amazon Sagemaker
 
-### Proposed Solution
+## Proposed Solution
 
 ![Architecture diagram](https://github.com/Ashleshk/Data-Engineering-Real-Time-Performance-Optimization-for-Manufacturing-Company/blob/main/Solution%20Architecture.png)
 
 
-### Question & Insight
+## Question & Insight
 
 1. **Question - How can we visualize the operating parameters for each machine in the factory?** 
 
@@ -45,12 +45,12 @@ You as Analyst need to investigate this and work backwards to solve the problem 
     - Based on this, **We can recommended that John receives more training to reduce the overall amount of defects**.
 
 
-### Data preparation 
+## Data preparation 
 
 ![Data prepartion](https://github.com/Ashleshk/Data-Engineering-Real-Time-Performance-Optimization-for-Manufacturing-Company/blob/main/Data%20Preparation.png)
 
 
-### Visualization 
+## Visualization 
 
 1. **Factory View Dashboard**
 ![Factory View Dashboard](https://github.com/Ashleshk/Data-Engineering-Real-Time-Performance-Optimization-for-Manufacturing-Company/blob/main/Factory%20View.png)
