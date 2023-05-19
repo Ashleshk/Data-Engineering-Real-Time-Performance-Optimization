@@ -31,12 +31,14 @@ You as Analyst need to investigate this and work backwards to solve the problem 
 ### Question & Insight
 
 1. **Question - How can we visualize the operating parameters for each machine in the factory?** 
-    - **Answer** : Yes, By selecting any data point in the Line Chart, say LO1, Machine 5, this value of the line field for data point is applied as a filter to the box plot visual operated during this time period with wider parameter settings. 
+
+**Answer** : Yes, By selecting any data point in the Line Chart, say LO1, Machine 5, this value of the line field for data point is applied as a filter to the box plot visual operated during this time period with wider parameter settings. 
     - We also see that the median settings during the time period for Machine 5 were drastically different from the other machines.
 
 
 2. **uestion - Which Machine was most Defective, which operator was responsible?**
-    - **Answer**
+
+**Answer**
 
 
 ### Data preparation 
