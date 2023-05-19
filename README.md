@@ -4,7 +4,7 @@
 
 Real-Time Performance Optimization Project with complete streaming data pipeline including acquisition, storage, enrichment, analysis and visualization
 
-- **Credit**: Special thanks to **AWS** & **Thoughtworks** to conduct "Data-Driven Everything(D2E) Workshop in Chicago". Thank you all for this amazing workshop.
+- **Credit**: Special thanks to **AWS** & **Thoughtworks** to conduct **"Data-Driven Everything(D2E) Workshop in Chicago"**. Thank you all for this amazing workshop.
 
 - **Source**: [AWS Catalog Workshop](https://catalog.workshops.aws/event/dashboard/en-US/workshop#data-strategy:-real-time-performance-optimization)
 
