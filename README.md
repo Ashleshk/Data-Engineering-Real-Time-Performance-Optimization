@@ -58,15 +58,16 @@ defective_count - amount of defects produced at the given time (shown as a decim
 
 1. **Question - How can we visualize the operating parameters for each machine in the factory?** 
 
-**Answer** : Yes, By selecting any data point in the Line Chart, say LO1, Machine 5, this value of the line field for data point is applied as a filter to the box plot visual operated during this time period with wider parameter settings. 
-    - We also see that the median settings during the time period for Machine 5 were drastically different from the other machines.
+**Answer** : Yes, By selecting any data point in the Line Chart, say LO1, Machine 5, 
+- this value of the line field for data point is applied as a filter to the box plot visual operated during this time period with wider parameter settings. 
+- We also see that the median settings during the time period for Machine 5 were drastically different from the other machines.
 
 
 2. **Question - Which Machine was most Defective, which operator was responsible?**
 
 **Answer** : **Line 1 Machine 5** was most defective among others for frequent period of time.
-    - John Doe worked mostly on this machine and Overall, he was responsible for many more defects (count: **4681.46**) than his colleagues. concluded from machine view below.
-    - Based on this, **We can recommended that John receives more training to reduce the overall amount of defects**.
+- John Doe worked mostly on this machine and Overall, he was responsible for many more defects (count: **4681.46**) than his colleagues. concluded from machine view below.
+- Based on this, **We can recommended that John receives more training to reduce the overall amount of defects**.
 
 ___
 
