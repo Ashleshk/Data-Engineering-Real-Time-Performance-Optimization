@@ -44,11 +44,16 @@ You as Analyst need to investigate this and work backwards to solve the problem 
     - John Doe worked mostly on this machine and Overall, he was responsible for many more defects (count: **4681.46**) than his colleagues. concluded from machine view below.
     - Based on this, **We can recommended that John receives more training to reduce the overall amount of defects**.
 
+___
+
+
+
 
 ## Data preparation 
 
 ![Data prepartion](https://github.com/Ashleshk/Data-Engineering-Real-Time-Performance-Optimization-for-Manufacturing-Company/blob/main/Data%20Preparation.png)
 
+___
 
 ## Visualization 
 
