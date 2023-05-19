@@ -36,9 +36,11 @@ You as Analyst need to investigate this and work backwards to solve the problem 
     - We also see that the median settings during the time period for Machine 5 were drastically different from the other machines.
 
 
-2. **uestion - Which Machine was most Defective, which operator was responsible?**
+2. **Question - Which Machine was most Defective, which operator was responsible?**
 
-**Answer**
+**Answer** : **Line 1 Machine 5** was most defective among others for frequent period of time.
+    - John Doe worked mostly on this machine and Overall, he was responsible for many more defects (count: **4681.46**) than his colleagues. concluded from machine view below.
+    - Based on this, **We can recommended that John receives more training to reduce the overall amount of defects**.
 
 
 ### Data preparation 
